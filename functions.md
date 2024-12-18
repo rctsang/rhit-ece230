@@ -76,7 +76,7 @@ Program memory is basically organized into:
 - **Static** – variables that exist for full duration of runtime
 - **Code/Text** – the code itself
 
-![program memory diagram. from top to bottom: stack, heap, static, and code](./assets/program-mem.png)
+<img src="./assets/program-mem.png" alt="program memory diagram. from top to bottom: stack, heap, static, and code" width="400" />
 
 A variable's lifetime represents how long the variable's storage exists at runtime, based on where it exists.
 
